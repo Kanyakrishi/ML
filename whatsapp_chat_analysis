@@ -75,7 +75,7 @@ def urls(df):
     print("Number of Links Shared", links)
 
 
-def man():
+def control():
     data = []
     format_data(data)
 
@@ -128,4 +128,4 @@ def man():
     plt.show()
 
 
-man()
+control()
